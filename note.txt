@@ -1,0 +1,1 @@
+work on temlates and get about page working views py urls.py and template inthe pages app. 
